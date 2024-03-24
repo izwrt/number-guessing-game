@@ -10,7 +10,7 @@ let highScoreValue = Number(highestScore.textContent);
 const displayMessage = function(message){
     document.querySelector('.message').textContent = message;
 }
-
+fdf
 document.querySelector('.check').addEventListener('click', function(){
     const guess =Number(document.querySelector('.guess').value);
     // const displayMessage =document.querySelector('.message');
